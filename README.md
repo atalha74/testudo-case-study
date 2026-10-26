@@ -18,7 +18,7 @@ Two requests from the same user can arrive at the same moment. A check-then-spen
 
 ## 4. Plan rules
 
-Free resets daily, paid plans reset monthly. Free users get a short list of cheap models. Paid plans can use all models, because the credit rates already price the expensive ones. Bring-your-own-key plans skip metering entirely, since the user pays the provider directly.
+Free resets daily, paid plans reset monthly. Free users get a short list of lower-cost models. Paid plans can use all models, because the credit rates already price the expensive ones. Bring-your-own-key plans skip metering entirely, since the user pays the provider directly.
 
 ## 5. Keys and secrets
 
